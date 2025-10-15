@@ -60,7 +60,7 @@ function App() {
   }
 
   return (
-    <div className="w-screen min-h-screen bg-green-800 flex justify-center p-6">
+    <div className="w-full min-h-screen bg-green-800 flex justify-center p-6">
       <div className="w-[500px] space-y-4">
         <Title>
           Gerenciador de Tarefas
